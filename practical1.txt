@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day1 php</title>
+</head>
+<body>
+    
+</body>
+</html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title> day 1 php </title>
+</head>
+<style>
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+</style>
+
+<body>
+    <h1>
+        <center><span title="Krishna&#39;s resume">RESUME</span></center>
+    </h1><br><br>
+    
+        
+    <h2><u><span title="Krishna&#39&#39;s Basic Details">Basic Details</span></u></h2><br>
+    <p> Name : Thakkar Krishna Umeshkumar </p><br>
+    <p> DOB : 04/03/2001 </p><br>
+    <p> Enrollment No. : 181210107057</p><br>
+    <p> Mobile : 6354692985 </p><br>
+    <p> Gender : Female </p><br>
+    <p> Address : C 28 Mahiphat bunglows,<br> Naroda,Ahemdabad <br>382330,Gujrat</p><br>
+    <hr>
+
+
+    <h3><b><u><span title="Krishna&#39;s Education Details">Education Details</span></u></b></h3>
+
+    <table border="1" bgcolor=" light georgian">
+        <tbody>
+            <tr valign="center">
+                <th> Sr No. </th>
+                <th> Degree </th>
+                <th> Board </th>
+                <th> School/University</th>
+                <th> Percentage </th>
+                <th> Duration </th>
+            </tr>
+
+            <tr>
+                <td style="text-align:center"> 1 </td>
+                <td style="text-align:center"> SSC </td>
+                <td style="text-align:center"> GSHEB </td>
+                <td style="text-align:center"> Shree Narayan Higher Secondary School </td>
+                <td style="text-align:center"> 77%</td>
+                <td style="text-align:center">2016</td>
+            </tr>
+
+            <tr>
+                <td style="text-align:center"> 2 </td>
+                <td style="text-align:center"> HSC </td>
+                <td style="text-align:center"> GSHEB </td>
+                <td style="text-align:center"> Shaleen Vidhyalaya Higher Secondary School </td>
+                <td style="text-align:center"> 69% </td>
+                <td style="text-align:center">2018</td>
+            </tr>
+
+            <tr>
+                <td style="text-align:center"> 3 </td>
+                <td style="text-align:center"> Degree </td>
+                <td style="text-align:center"> Gujrat </td>
+                <td style="text-align:center"> Gujrat Technological University</td>
+                <td style="text-align:center"> 9.22 </td>
+                <td style="text-align:center"> 2019-2022 </td>
+            </tr>
+
+        </tbody>
+    </table><br><br>
+    <hr>
+
+    <h2><b><u><span title="Krishna&#39&#39;s Achievements">ACHIEVEMENTS</span></u></b></h2><br>
+    <ul>
+        <li> Basic skills of Coding. </li>
+        <li> Basic Knowledge of MS Office. </li>
+        <li> Participated in several Workshops. </li>
+    </ul><br>
+    <hr>
+
+    <p align="center"><i> I hereby declare that above all information is true to thr best of my Knowledge.</i></p><br>
+
+    <p><span title="Here is link">Linked Link : <a href="https://www.linkedin.com/company/linkedin"> <strong>Click
+                    here</strong> </a> for more details.</span></p>
+    <h3 align="right"> Yours faithfully </h3>
+    <p align="right"> Krishna </p>
+
+
+
+
+</body>
+
+</html>
